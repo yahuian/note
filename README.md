@@ -1,6 +1,6 @@
 # blog
 
-blog & note
+blog & [note](https://github.com/yahuian/blog/issues)
 
 ## Go
 
@@ -17,4 +17,3 @@ blog & note
 ## 安全
 
 [网络安全离我们并不远](./security/network_security_is_not_far_from_us.md)
-
