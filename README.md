@@ -1,3 +1,3 @@
 
 
-👉[blog](https://github.com/yahuian/blog/issues)
+👉[note](https://github.com/yahuian/note/issues)
